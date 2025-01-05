@@ -1,8 +1,7 @@
 {
   "profiles": {
     "ProductivityAssistant": {
-      "commandName": "Project",
-      "commandLineArgs": "block"
+      "commandName": "Project"
     }
   }
 }
